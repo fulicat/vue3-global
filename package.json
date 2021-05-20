@@ -1,0 +1,27 @@
+{
+  "name": "vue3-global",
+  "version": "1.0.0",
+  "description": "vue3 global property、component、directive、filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fulicat/vue3-global.git"
+  },
+  "keywords": [
+    "vue3-global",
+    "vue3",
+    "vite"
+  ],
+  "author": "fulicat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fulicat/vue3-global/issues"
+  },
+  "homepage": "https://github.com/fulicat/vue3-global#readme",
+  "devDependencies": {
+    "vue": "^3.0.5"
+  }
+}
