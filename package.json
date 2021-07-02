@@ -1,6 +1,6 @@
 {
   "name": "vue3-global",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "vue3 global property、component、directive、filter",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
   "keywords": [
     "vue3-global",
     "vue3",
+    "property",
+    "component",
+    "directive",
+    "filter",
     "vite"
   ],
   "author": "fulicat",
