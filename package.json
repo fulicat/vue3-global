@@ -1,6 +1,6 @@
 {
   "name": "vue3-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue3 global property、component、directive、filter",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/fulicat/vue3-global#readme",
   "devDependencies": {
-    "vue": "^3.0.5"
+    "vue": "^3.0.11"
   }
 }
