@@ -3,7 +3,7 @@
 * @Author: Jack.Chan
 * @Date:   2021-05-17 19:32:26
 * @Last Modified by:   Jack.Chan
-* @Last Modified time: 2021-05-20 18:34:24
+* @Last Modified time: 2021-07-02 15:41:36
 */
 import { createApp as _createApp } from 'vue'
 
@@ -29,7 +29,7 @@ export const createApp = (...args) => {
       		return;
 		}
 		_mount(container)
-		container.parentNode.replaceChild(container.childNodes[0], container)
+		container.parentNode.replaceChild(container, container)
 		return container
 	}
 	return app
